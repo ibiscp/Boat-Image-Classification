@@ -1,4 +1,4 @@
-# Malware Analysis
+# Boat Image Classification
 
 ## Introduction
 The goal of this project is to train a classifier using LeNet architecture in order to classify different categories of boats navigating in the City of Venice (Italy).
